@@ -55,6 +55,8 @@ footer p {
     background: #f00;
     text-align: right;
     margin: 0px 0px 0px 50px;
+    border-top: 0px;
+    border-right: 0px;
     border-bottom: 2px solid #fff;
     border-left: 5px solid #fff;
 }
@@ -63,6 +65,8 @@ footer p {
     background: #00F;
     text-align: left;
     margin: 0px 50px 0px 0px;
+    border-bottom: 0px;
+    border-left: 0px;
     border-top: 2px solid #fff;
     border-right: 5px solid #fff;
 }
@@ -75,6 +79,8 @@ footer p {
     background: #FFFF00;
     text-align: right;
     margin: 0px 0px 0px 50px;
+    border-top: 0px;
+    border-right: 0px;
     border-bottom: 2px solid #fff;
     border-left: 5px solid #fff;
 }
@@ -87,6 +93,8 @@ footer p {
     background: #008500;
     text-align: left;
     margin: 0px 50px 0px 0px;
+    border-left: 0px;
+    border-bottom: 0px;
     border-top: 2px solid #fff;
     border-right: 5px solid #fff;
 }
